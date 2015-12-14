@@ -1,0 +1,24 @@
+---
+layout: default
+body_class: page
+---
+
+<article class="page">
+
+  <section class="content">
+    {{ content }}
+  </section>
+
+  <section class="next-prev">
+    {% if page.next.url %}
+      &laquo;&nbsp;<a href="{{ page.next.url }}" rel="next" title="{{ page.next.title }}">{{ page.next.title }}</a>
+      &nbsp;|&nbsp;
+    {% endif %}
+    
+    {% if page.previous.url %}
+      &nbsp;|&nbsp;
+      <a href="{{ page.previous.url }}" rel="previous" title="{{ page.previous.title }}">{{ page.previous.title }}</a>&nbsp;&raquo;
+    {% endif %}
+  </section>
+
+</article>
