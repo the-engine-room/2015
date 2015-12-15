@@ -15,7 +15,7 @@ nav {
 
   @media (#{$bp-larger-than-phablet}) {
     height: 100%;
-    background: $green;
+    background: $gray;
     padding: 20px 0 0;
   }
 
@@ -43,13 +43,13 @@ nav {
     padding: 10px 0 15px 0;
     margin: 0;
     
-    background: $green;
+    background: $gray;
     color: $white;
     font-weight: bold;
     
     @media (#{$bp-larger-than-phablet}) {
       background: $white;
-      color: $dark-grey;
+      color: $gray;
       margin-bottom: 20px; }
   }
 
@@ -70,9 +70,9 @@ nav {
 
   ul.nav {
     list-style-type: none;
-    margin: 0;
     position: relative;
-    top: -20px; // cancel out h1 margin-bottom
+    top: 50%;
+    transform: translateY(-50%);
 
     // allow vertical scroll on small screens
     overflow-y: scroll;
@@ -83,19 +83,24 @@ nav {
 
     // nav at top
     &.visible {
-      float: none;
+      float: none; 
       width: calc(80% - 20px);
-      background: $green;
+      background: $gray;
     }
     li {
-      padding: 10px 0;
+      padding: 20px 20px 0 20px;
+
+      text-align: right;
       margin-bottom: 0;
       font-weight: bold;
-      a { color: $white; }
+      a { color: $white; font-weight: 400;}
     }
     li.active, li:hover {
-      background: $dark-grey;
-      color: $white;
+      a {
+        color: $yellow;
+        border-bottom: 2px solid $yellow;
+        margin-bottom: -2px;
+      }
     }
 
     // nav to side
@@ -107,7 +112,7 @@ nav {
         // fill nav li
         position: relative;
         display: block;
-        padding: 10px 0;
+        padding: 20px 0 0 0;
       }
     }
   }
@@ -121,7 +126,7 @@ body.page > .content {
 footer {
   padding: 30px 0;
 
-  background: $light-grey;
+  background: $red;
   color: $white;
 
   .logo {
@@ -163,8 +168,8 @@ footer {
     }
   }
   .license img {
-    width: 25%;
-    left: 37.5%;
+    width: 35%;
+    left: 15%;
     @media (#{$bp-larger-than-phablet}) { width: 200%; }
   }
 }

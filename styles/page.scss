@@ -1,5 +1,13 @@
+div.content {
+  header.logo {
+      text-align: center;
+      padding-right: 40px;
+      img { width: 30%; }
+  }
+}
+
 article.page {
-  padding: 20px 40px 20px 20px;
+  padding: 0px 40px 20px 20px;
   @media (#{$bp-larger-than-phablet}) { padding-left: 0; }
 
   section.content {
