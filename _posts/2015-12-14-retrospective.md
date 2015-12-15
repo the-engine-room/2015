@@ -34,13 +34,13 @@ Scroll through to learn more about our programmatic activities, research, networ
 
 You’ll find threads of our two major programs running through much of our work - we try to engage in long-term direct support as a general rule, and we also try to integrate responsible data thinking into all of our partnerships, projects, and research.
 
-![Responsible Data Forum](../media/logos/RDF.png)
+![Responsible Data Forum](/media/logos/RDF.png)
 
 ### Responsible Data Program
 
 Our Responsible Data Program is focused on making it easier for advocacy organizations to use data responsibly. Part of the Responsible Data Program, the Responsible Data Forum convenes activists, advocates, security thinkers, researchers and technology doers, for learning and building sprints. We've had a few significant developments in the past year, including: hiring of a Responsible Data Program Manager (Danna Ingleton) and a re-conceptualization of program delivery.
 
-![Matchbox](../media/logos/matchbox.png)
+![Matchbox](/media/logos/matchbox.png)
 
 ### Matchbox
 
@@ -54,7 +54,7 @@ Our direct support to partners is a critical part of our work. It creates impact
 
 ### Responsible Data Program
 
-![OXFAM](../media/logos/oxfam.png)
+![OXFAM](/media/logos/oxfam.png)
 
 #### OXFAM 
 We worked with OXFAM as they developed and launched their updated responsible data institutional policy. This was ‘light touch’ direct support that involved reviewing and commenting on drafts, making helpful connections within the community and being available to discuss thorny areas of the policy.
@@ -62,19 +62,19 @@ We worked with OXFAM as they developed and launched their updated responsible da
 #### Shelter Me
 We’re working with Shelter Me, a project developing an SMS phone tree for Indonesian migrant domestic workers in the Gulf Region. We facilitated a half day session with the funder and project partners to unpack responsible data issues related to this phone tree, and to develop mitigation strategies. Of particular interest is that we used a responsible data framework to plan out the project, rather than attempting to shoehorn responsible data into an existing project plan.
 
-![Medecins Sans Frontieres](../media/logos/msf.png)
+![Medecins Sans Frontieres](/media/logos/msf.png)
 
 #### Medecins Sans Frontieres 
 We are embarking on a project with Medecins Sans Frontieres to review and update their data sharing policies and implementation tools. The importance of this work lies in the intrinsic value of opening medical data and data from field research to support humanitarian interventions and medical research, studies, publications and ultimately service delivery.
 
-![Amnesty International](../media/logos/amnesty.png)
+![Amnesty International](/media/logos/amnesty.png)
 
 #### Amnesty International
 We are working with Amnesty International and Benetech to spearhead a community discussion on these issues, taking into consideration all that has been done to date. We will develop a helpful resource to both bring consistency in present responses and to ensure that human rights practitioners are well positioned to proactively address responsible data issues as they emerge.
 
 We also led a responsible data and program design workshop for Amnesty International to help them prepare for their microtasking project.
 
-![Mercy Corps](../media/logos/mercy.png)
+![Mercy Corps](/media/logos/mercy.png)
 
 #### Mercy Corps
 We have worked with Mercy Corps to develop tip sheets for RD issues related to e-transfers. We are initially drafting 2 tip sheets (on Encryption and Data Minimisation) and will hopefully be contributing to the development of a broader Data Starter Kit for humanitarian field staff working on e-transfer programmes.
@@ -82,33 +82,33 @@ We have worked with Mercy Corps to develop tip sheets for RD issues related to e
 
 ### Matchbox Partners
 
-![Fundacion Directorio Legislativo](../media/logos/directorio.gif)
+![Fundacion Directorio Legislativo](/media/logos/directorio.gif)
 
 #### Fundacion Directorio Legislativo (Argentina)
 An organization that uses dialogue, transparency and access to public information to promote democracy and a stronger parliament. We supported the development of a website to show changes made to bills and the parliamentarians who promoted these changes. We wrote about this work [here](https://www.theengineroom.org/turning-an-idea-into-an-action-plan-documenting-our-work-with-directorio-legislativo/).
 
-![¿Quién Compró?](../media/logos/quien.png)
+![¿Quién Compró?](/media/logos/quien.png)
 
 #### ¿Quién Compró? (Mexico)
 An online platform investigating how the Mexican congress spends public funds. The site shows where and on what public money is being spent. We facilitated improvements to the website to allow for more effective collection, uploading and downloading of receipts obtained through freedom of information laws. [We wrote about the process of creating a microtasking site](https://www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/), and [digitizing documents](https://www.theengineroom.org/what-were-learning-about-digitizing-and-preserving-documents/). 
 
-![Research and Advocacy Unit](../media/logos/rau.png)
+![Research and Advocacy Unit](/media/logos/rau.png)
 
 #### Research and Advocacy Unit (Zimbabwe)
 A research organization focusing on issues related to women, displacements and governance. We helped to set up a citizen reporting platform using FrontlineSMS to collect citizen voices on MPs’ participation in parliament, and captured and recorded this information in a database, linking the database to individual MP profiles and a public interface for dissemination. We wrote about it [here](https://www.theengineroom.org/harnessing-tech-to-monitor-mps-attendance-and-engagement-in-zimbabwe/).
 
-![Kubatana](../media/logos/kubatana.png)
+![Kubatana](/media/logos/kubatana.png)
 
 #### Kubatana (Zimbabwe)
 A civic human rights information and advocacy organisation that provides and makes accessible online a range of human rights and public interest documents. We helped the organization develop a tool  to collect and categorize citizen reports on water availability throughout Harare. We wrote about our experience using WhatsApp for this project [here](https://www.theengineroom.org/what-were-learning-about-using-whatsapp-in-advocacy-initiatives/).
 
-![Institute for Public Policy Research](../media/logos/ippr.png)
+![Institute for Public Policy Research](/media/logos/ippr.png)
 
 #### Institute for Public Policy Research (Namibia)
 A research organization that delivers independent, analytical, critical and constructive research into social, political and economic issues affecting development in Namibia. Matchbox is providing support in the mapping of information related to the allocation of Petroleum Exploration Licenses in the country in an effort to increase transparency in the sector. Part of our support also included the development of an online platform that includes data visualisations where the public can view raw data and basic analysis of trends in the licensing
 process.
 
-![Ndifuna](../media/logos/ndifuna.png)
+![Ndifuna](/media/logos/ndifuna.png)
 
 #### Ndifuna Ukwazi (South Africa)
 A team of advocates based in Cape Town, South Africa. They use research and strategic litigation to campaign for justice and equality in poor and working class communities. Matchbox helped NU build a platform that monitors the accessibility of municipalities’ service delivery agreement contracts and other public information, and compares municipalities’ compliance on FOI laws against each other. We wrote about it here. The website is available [here](http://muni.compliancetracker.org.za/).
@@ -126,47 +126,47 @@ The engine room team has been working with Amnesty International for three years
 #### Alt Click
 Amnesty International has recently started a program to leverage volunteer microtasking (link to blog post about what microtasking is) to support their human rights documentation and research processes. This is no small effort to design an effective program that uses technology to great effect while also addressing head-on the responsible data challenges of including the public in sifting and categorizing large amounts of human rights documentation. To support Amnesty in the design phase of Alt Click, we researched existing microtasking initiatives and technology providers to develop a set of recommendations and background information on the state of the art in microtasking; we also facilitated a program design sprint to support the development of a clear pilot case for Alt Click. We will continue working with the Alt Click team to support them as they work to use new tools to enrich their volunteer engagement and expand their research capabilities. 
 
-![Panic Button](../media/logos/panicbutton.png)
+![Panic Button](/media/logos/panicbutton.png)
 
 #### Panic Button
 We worked with Amnesty International and media activist [Mushon Zer-Aviv](http://mushon.com/) to create the [Panic Button Training Kit (PACT)](http://the-engine-room.github.io/PACT-kit/), a collection of training tools for human rights defenders at risk. We wrote about this work [here](https://www.theengineroom.org/from-a-button-to-a-pact-scaling-security-through-design/).
 
-![SumofUs](../media/logos/sumofus.png)
+![SumofUs](/media/logos/sumofus.png)
 
 #### SumofUs
 The engine room team works with [SumofUs](http://sumofus.org/), the campaigning organization, to improve its team security practices. Moving beyond technical fixes and end-user tool trainings, we’ve been working with SumofUs to develop organization-wide behavior change that powers the organization’s mission of holding corporations accountable to citizens.
 
-![Rainforest Foundation](../media/logos/rainforest.png)
+![Rainforest Foundation](/media/logos/rainforest.png)
 
 #### Rainforest Foundation
 We have continued our work with the [Rainforest Foundation of Norway](http://www.regnskog.no/en/) to support their partners in developing strategic skills for adopting data and technology in national-level advocacy to protect forests and individuals’ rights. We produced an introduction to using technology tools such as drones, satellite mapping and mobile data collection (to be published shortly), and conducted research on how advocacy organisations can produce data that socially responsible investors could use to influence companies’ activities. The Rainforest Foundation supports programs that cover a range of issues from protection of civil and political rights of indigenous and tribal peoples, to the promotion and defense of their social, economic and cultural rights.
 
-![Datashift](../media/logos/datashift.png)
+![Datashift](/media/logos/datashift.png)
 
 #### DataShift
 The engine room has continued its work with CIVICUS on the [DataShift](http://civicus.org/thedatashift/) initiative. The engine room team has been supporting in: design and implementation of targeted support to organisations collecting and using citizen-generated data in four pilot countries (Argentina, Nepal, Tanzania, and Kenya), research on the impact that citizen-generated data projects can have, and creating reusable resources on how to successfully develop citizen-generated data projects that can have real impact at national and international levels. CIVICUS is an international alliance dedicated to strengthening citizen action and civil society around the world.
 
-![Restart Project](../media/logos/restart.png)
+![Restart Project](/media/logos/restart.png)
 
 #### Restart Project
 We developed a platform for the [Restart Project](https://therestartproject.org/) to provide visual information about the impact that Restart Parties have on the amount of e-waste participants produce. This work is intended to connect monitoring and evaluation approaches with data-informed, visual advocacy tools.
 
-![Asylos](../media/logos/asylos.png)
+![Asylos](/media/logos/asylos.png)
 
 #### Asylos
 Last year, we supported [Asylos](http://asylos.eu/) to develop its new data sharing tool for the decentralized research team that powers its support to refugees. This year we helped design and facilitate Asylos’ all-network event in Berlin. We supported them to incorporate diverse topics ranging from creative campaigning techniques (featuring Peng!), creative research techniques (featuring the Transparency Toolkit), Asylum Law 101 (featuring the Refugee Law Clinic of Munich), and other sessions on country of origin information standards, responsible data and information security.
 
-![LevelUp](../media/logos/levelup.png)
+![LevelUp](/media/logos/levelup.png)
 
 #### Level Up
 We're working with the [LevelUp](https://www.level-up.cc) team at Internews to overhaul their platform and improve mechanisms for contribution and localization. LevelUp is a resource for training of trainers (ToT) and supports individuals and groups providing digital security trainings worldwide.
 
-![Code for Pakistan](../media/logos/codeforpakistan.png)
+![Code for Pakistan](/media/logos/codeforpakistan.png)
 
 #### Code for Pakistan
 We worked with [Code for Pakistan](http://codeforpakistan.org/) to improve volunteer engagement and onboarding; better manage organizational information; and use tools and techniques to more effectively manage roadmaps, goals, and day-to-day work between an international, distributed team. Code for Pakistan is a technology focused non-profit building a non-partisan civic innovation ecosystem to improve quality of life across Pakistan.
 
-![Data Centar](../media/logos/centar.png)
+![Data Centar](/media/logos/centar.png)
 
 #### Data Centar
 [Data Centar](http://datacentar.io) aims to provide a fully functional MVP (minimum viable product) for an open, searchable online platform of financial and administrative data on public officials, at a national and local level in Serbia. 
