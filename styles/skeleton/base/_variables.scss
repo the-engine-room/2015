@@ -12,15 +12,15 @@ $bp-larger-than-desktophd : "min-width: 1200px" !default;
 $white: #eeeeee;
 $black: #212121;
 $gray: #4E4E4E;
-$red: #d32f2f;
+$red: #c2185b;
 $yellow: #FFC107;
 $primary-color: $gray;
 
 $secondary-color: lighten($black, 13.5%) !default;
 $border-color: #bbb !default;
-$link-color: #d32f2f !default;
-$link-visited: #d32f2f !default;
-$link-active: #d32f2f !default;
+$link-color: #c2185b !default;
+$link-visited: #c2185b !default;
+$link-active: #c2185b !default;
 $font-color: $black;
 
 
