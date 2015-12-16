@@ -21,12 +21,12 @@
   </head>
 
   <body class="row {%if page.body_class%}{{page.body_class}}"{%endif%}>
-    <nav class="four columns">
+    <nav class="three columns">
 
       {% include navbar.html %}
     </nav>
 
-    <div class="content eight columns offset-by-four">
+    <div class="content nine columns offset-by-three">
 
       <header class="logo">
         <a href="https://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="the engine room" /></a>
@@ -36,12 +36,12 @@
     </div>
 
     <footer class="twelve columns row">
-      <div class="nine columns offset-by-four u-flex-center">
+      <div class="nine columns offset-by-three u-flex-center">
         <div class="logos three columns u-flex-center">
           <div class="logo "><a href="https://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroomwhite.png" alt="the engine room" /></a></div>
           
         </div>
-        <div class="text five columns">
+        <div class="text six columns">
           <p>{% if page.footer_text%}{{page.footer_text}}{%else%}
             This site was created by the engine room to advance open knowledge and open standards.
             {% endif %}

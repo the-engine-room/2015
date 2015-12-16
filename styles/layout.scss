@@ -71,12 +71,10 @@ nav {
   ul.nav {
     list-style-type: none;
     position: relative;
-    top: 50%;
-    transform: translateY(-50%);
 
     // allow vertical scroll on small screens
     overflow-y: scroll;
-    height: calc(100% - 160px);
+    height: 100%;
 
     // initially hidden on mobile
     display: none;
