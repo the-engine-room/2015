@@ -1,3 +1,5 @@
+var offsetTop = 50;
+
 $(document).ready(function() {
     // nav toggle
     $('nav a#toggle').on('click', function() {
@@ -17,9 +19,9 @@ $(document).ready(function() {
         // animate scroll to top
         var href = $(this).children('a').attr('href');
         var element = $(href);
-        var offsetTop = $('nav ul.nav').hasClass('visible') ? 25 : -25;
-        $('html, body').animate({
-            scrollTop: element.offset().top - element.outerHeight() - offsetTop
+        var scrollTop = element.offset().top - offsetTop;
+        $('body').animate({
+            scrollTop: scrollTop
         }, 1000);
         window.location.hash = href;
 
@@ -42,6 +44,7 @@ $(document).ready(function() {
     });
 
     $('body').scrollspy({
-        target: 'nav'
+        target: 'nav',
+        offset: offsetTop
     });
 });
