@@ -1,8 +1,10 @@
 div.content {
   header.logo {
       text-align: center;
-      padding-right: 40px;
-      img { width: 30%; }
+      img {
+        width: 30%;
+        min-width: 200px;
+      }
   }
 }
 

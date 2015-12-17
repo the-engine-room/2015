@@ -12,10 +12,10 @@ nav {
   width: 100%;
   text-align: center;
   z-index: 1;
+  background: $gray;
 
   @media (#{$bp-larger-than-phablet}) {
     height: 100%;
-    background: $gray;
     padding: 20px 0 0;
   }
 
@@ -60,7 +60,7 @@ nav {
   a#toggle {
     float: left;
     position: relative;
-    margin-top: -55px;
+    //margin-top: -55px; // pull toggle up from logo
     margin-left: 20px;
     font-size: 2em;
     color: $white;
