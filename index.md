@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 2015 Retrospective
-
 ---
 
 # 2015 Retrospective
