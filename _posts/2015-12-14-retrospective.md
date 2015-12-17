@@ -16,17 +16,7 @@ _We define __positive social change__ as shifts in society that promote equality
 
 ## how did we work towards our mission in 2015?
 
-* We grew the number of organizations we supported from 41 to 63
-* We supported the development of 12 data and technology projects in transparency, accountability, human rights, and governance
-* We produced 25 blog posts documenting approaches to common data and technology challenges
-* We held 2 Responsible Data Forums to support collaborative thinking about RD challenges and actively supported 9 other responsible data-focused offline and online events
-* We organized and facilitated 10 events to support collaborative program design and community development for organizations and networks
-* We grew our team from 10 to 12 to address growing demand and further our reach
-* We successfully increased interest in tackling responsible data challenges
-* We built and completed the pilot of our Matchbox approach with 6 partnerships
-* We developed our organizational security support work from a loose set of engagements to a consolidated process
-* We fine-tuned our ability to produce high quality problem-solving and program design support to organizations big and small
-* We added three new board members to help with our strategic direction and organizational management
+![Infographic](//the-engine-room.github.io/2015/media/icons/infographic.png)
 
 Scroll through to learn more about our programmatic activities, research, network of allies and events in 2015.
 
@@ -166,8 +156,6 @@ We provided light-touch strategic support in response to requests from 30 organi
 
 ## how did we do this?
 
-![Bringing people together](//the-engine-room.github.io/2015/media/icons/people.png)
-
 ### By bringing people together
 
 In 2015, the engine room has partnered with 6 organizations to host 2 Responsible Data Forum events. We also worked with 5 practitioners with responsible data expertise to host 4 online, peer-to-peer discussions. Here’s a brief summary:
@@ -202,8 +190,6 @@ Another important part of our partner support is designing and leading events th
 * TALearn event in Delhi - as the follow up from some research we’ve been doing for the Transparency and Accountability Initiative into social movements, we facilitated a workshop for them bringing together project partners to co-create a research agenda for future work. More on the research is below. 
 * We attended the [International Anti-Corruption Conference (IACC)](http://iacconference.org/) in Malaysia and helped out with their [Technology Hub](https://16iacc.sched.org/list/descriptions/type/technology+hub#.VgmZGuSgwYw). Interested attendees could approach technologists to ask a question, pitch an idea, figure out how to analyse a dataset or simply find out what tools may be available to use for their project. There’s more info about this [in our blog](https://www.theengineroom.org/how-technology-is-used-to-fight-impunity-our-take-aways-from-the-international-anti-corruption-conference/).
 
-![Matchmaking](//the-engine-room.github.io/2015/media/icons/matchmaking.png)
-
 ### By matchmaking
 
 We could not have accomplished what we did this year without the support of our worldwide network of allies and organizations. In 2015, our legion of experts spent countless hours designing and developing platforms, resources and strategies for each of our partner’s projects. Other allies are tirelessly working to introduce responsible data practices into their organizations and work with the community to improve existing resources.
@@ -230,8 +216,6 @@ We also were supported by RDF community leaders who led panels and discussions a
 * [Norman Shamas](https://twitter.com/NormanShamas) included a number of RDF topics in various Tech Change courses. 
 * [Jos Berens](https://twitter.com/jos_berens) spoke about responsible data at various open data for peace events
 
-![Through research and documentation](//the-engine-room.github.io/2015/media/icons/research.png)
-
 ### Through research and documentation
 
 Making All Voices Count ([MAVC](http://www.makingallvoicescount.org/)) –  together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organisations choosing a tool think through the process. The research is supported by Making All Voices Count.
@@ -246,8 +230,6 @@ In addition to our research projects with MAVC and T/AI, we have also published 
 We also created a resource for those involved in data driven advocacy projects in the context of human rights advocacy, humanitarian action, sustainable development, or peace & justice. We built the [Big Data Framework](https://the-engine-room.github.io/big-data-framework/) together with the [Peace Informatics Lab](http://www.peaceinformaticslab.org/), [Data & Society](http://www.datasociety.net/), the [Harvard Humanitarian Initiative](http://hhi.harvard.edu/), all participants to the [Big Data for Peace Summer School in The Hague](http://www.peaceinformaticslab.org/2015-summer-school.html). By walking through it at the start of a project, we hope that users can draft a more informed data strategy based on the questions provided.
 
 Towards the end of 2014, thanks to a grant written by Hivos we brought together 12 data + international development experts to write a book on the responsible data challenges that come with increased, and new, ways of using data in the development sector. In 2015, we converted this PDF book into a static website and made it annotatable with the handy Hypothes.is plugin, and we carried out [some user research to see how our community was using the book](https://responsibledata.io/what-we-learned-from-user-research-on-the-responsible-data-in-development-book/). Based on what we found out, we’re now working on improvements and developments to the book - such as chapter summaries and slide decks for responsible data advocates. 
-
-![Growing our team](//the-engine-room.github.io/2015/media/icons/growth.png)
 
 ### By growing our team
 
@@ -337,5 +319,3 @@ In addition to the events we led or helped to organize, the engine room particip
 ## looking forward
 
 In January we will be sharing our 2016-2017 strategic plan where you will find more information about the problems we will be tackling in the next 2 years. But remember: __our digital door is always open__. If you’ve got technology and data problems or opportunities, we’re here to help. And if we don’t have the in-house expertise to help, we will do our best to point you to others in our network of excellent allies who do.
-
-![Our Digital Door is Always Open](//the-engine-room.github.io/2015/media/icons/opendoor.png)
