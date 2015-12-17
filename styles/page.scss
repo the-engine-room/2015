@@ -38,3 +38,8 @@ article.page {
     }
   }
 }
+
+h1#retrospective {
+  display: none;
+  @media (#{$bp-larger-than-phablet}) { display: block; }
+}
