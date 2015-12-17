@@ -14,7 +14,7 @@
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
     <script src="{{site.baseurl}}/scripts/scrollspy.js"></script>
-    <script src="{{site.baseurl}}/scripts/site.js"></script>
+    <script src="{{site.baseurl}}/scripts/site.js?v={{site.time | date: '%s'}}"></script>
 
     <title>{{page.title}}</title>
     {% if page.scripts %}{{page.scripts}}{% endif %}
