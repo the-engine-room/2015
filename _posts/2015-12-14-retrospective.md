@@ -44,6 +44,8 @@ Our direct support to partners is a critical part of our work. It creates impact
 
 #### Responsible Data Program
 
+<br>
+
 ![OXFAM](//the-engine-room.github.io/2015/media/logos/oxfam.png)
 
 __OXFAM__ - We worked with OXFAM as they developed and launched their updated responsible data institutional policy. This was ‘light touch’ direct support that involved reviewing and commenting on drafts, making helpful connections within the community and being available to discuss thorny areas of the policy.
@@ -56,11 +58,15 @@ __Shelter Me__ - We’re working with Shelter Me, a project developing an SMS ph
 
 __Medecins Sans Frontieres__ - We are embarking on a project with Medecins Sans Frontieres to review and update their data sharing policies and implementation tools. The importance of this work lies in the intrinsic value of opening medical data and data from field research to support humanitarian interventions and medical research, studies, publications and ultimately service delivery.
 
+<br>
+
 ![Amnesty International](//the-engine-room.github.io/2015/media/logos/amnesty.png)
 
 __Amnesty International__ - We are working with Amnesty International and Benetech to spearhead a community discussion on these issues, taking into consideration all that has been done to date. We will develop a helpful resource to both bring consistency in present responses and to ensure that human rights practitioners are well positioned to proactively address responsible data issues as they emerge.
 
 We also led a responsible data and program design workshop for Amnesty International to help them prepare for their microtasking project.
+
+<br>
 
 ![Mercy Corps](//the-engine-room.github.io/2015/media/logos/mercy.png)
 
@@ -69,26 +75,38 @@ __Mercy Corps__ - We have worked with Mercy Corps to develop tip sheets for RD i
 
 #### Matchbox Partners
 
+<br>
+
 ![Fundacion Directorio Legislativo](//the-engine-room.github.io/2015/media/logos/directorio.gif)
 
 __Fundacion Directorio Legislativo (Argentina)__ - An organization that uses dialogue, transparency and access to public information to promote democracy and a stronger parliament. We supported the development of a website to show changes made to bills and the parliamentarians who promoted these changes. We wrote about this work [here](https://www.theengineroom.org/turning-an-idea-into-an-action-plan-documenting-our-work-with-directorio-legislativo/).
+
+<br>
 
 ![¿Quién Compró?](//the-engine-room.github.io/2015/media/logos/quien.png)
 
 __¿Quién Compró? (Mexico)__  - An online platform investigating how the Mexican congress spends public funds. The site shows where and on what public money is being spent. We facilitated improvements to the website to allow for more effective collection, uploading and downloading of receipts obtained through freedom of information laws. [We wrote about the process of creating a microtasking site](https://www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/), and [digitizing documents](https://www.theengineroom.org/what-were-learning-about-digitizing-and-preserving-documents/). 
 
+<br>
+
 ![Research and Advocacy Unit](//the-engine-room.github.io/2015/media/logos/rau.png)
 
 __Research and Advocacy Unit (Zimbabwe)__  - A research organization focusing on issues related to women, displacements and governance. We helped to set up a citizen reporting platform using FrontlineSMS to collect citizen voices on MPs’ participation in parliament, and captured and recorded this information in a database, linking the database to individual MP profiles and a public interface for dissemination. We wrote about it [here](https://www.theengineroom.org/harnessing-tech-to-monitor-mps-attendance-and-engagement-in-zimbabwe/).
+
+<br>
 
 ![Kubatana](//the-engine-room.github.io/2015/media/logos/kubatana.png)
 
 __Kubatana (Zimbabwe)__ - A civic human rights information and advocacy organisation that provides and makes accessible online a range of human rights and public interest documents. We helped the organization develop a tool  to collect and categorize citizen reports on water availability throughout Harare. We wrote about our experience using WhatsApp for this project [here](https://www.theengineroom.org/what-were-learning-about-using-whatsapp-in-advocacy-initiatives/).
 
+<br>
+
 ![Institute for Public Policy Research](//the-engine-room.github.io/2015/media/logos/ippr.png)
 
 __Institute for Public Policy Research (Namibia)__ - A research organization that delivers independent, analytical, critical and constructive research into social, political and economic issues affecting development in Namibia. Matchbox is providing support in the mapping of information related to the allocation of Petroleum Exploration Licenses in the country in an effort to increase transparency in the sector. Part of our support also included the development of an online platform that includes data visualisations where the public can view raw data and basic analysis of trends in the licensing
 process.
+
+<br>
 
 ![Ndifuna](//the-engine-room.github.io/2015/media/logos/ndifuna.png)
 
@@ -112,37 +130,55 @@ __Amnesty International__ - The engine room team has been working with Amnesty I
 
 __Alt Click__ - Amnesty International has recently started a program to leverage volunteer microtasking (link to blog post about what microtasking is) to support their human rights documentation and research processes. This is no small effort to design an effective program that uses technology to great effect while also addressing head-on the responsible data challenges of including the public in sifting and categorizing large amounts of human rights documentation. To support Amnesty in the design phase of Alt Click, we researched existing microtasking initiatives and technology providers to develop a set of recommendations and background information on the state of the art in microtasking; we also facilitated a program design sprint to support the development of a clear pilot case for Alt Click. We will continue working with the Alt Click team to support them as they work to use new tools to enrich their volunteer engagement and expand their research capabilities. 
 
+<br>
+
 ![Panic Button](//the-engine-room.github.io/2015/media/logos/panicbutton.png)
 
 __Panic Button__ - We worked with Amnesty International and media activist [Mushon Zer-Aviv](http://mushon.com/) to create the [Panic Button Training Kit (PACT)](http://the-engine-room.github.io/PACT-kit/), a collection of training tools for human rights defenders at risk. We wrote about this work [here](https://www.theengineroom.org/from-a-button-to-a-pact-scaling-security-through-design/).
+
+<br>
 
 ![SumofUs](//the-engine-room.github.io/2015/media/logos/sumofus.png)
 
 __SumofUs__ - The engine room team works with [SumofUs](http://sumofus.org/), the campaigning organization, to improve its team security practices. Moving beyond technical fixes and end-user tool trainings, we’ve been working with SumofUs to develop organization-wide behavior change that powers the organization’s mission of holding corporations accountable to citizens.
 
+<br>
+
 ![Rainforest Foundation](//the-engine-room.github.io/2015/media/logos/rainforest.png)
 
 __Rainforest Foundation__ - We have continued our work with the [Rainforest Foundation of Norway](http://www.regnskog.no/en/) to support their partners in developing strategic skills for adopting data and technology in national-level advocacy to protect forests and individuals’ rights. We produced an introduction to using technology tools such as drones, satellite mapping and mobile data collection (to be published shortly), and conducted research on how advocacy organisations can produce data that socially responsible investors could use to influence companies’ activities. The Rainforest Foundation supports programs that cover a range of issues from protection of civil and political rights of indigenous and tribal peoples, to the promotion and defense of their social, economic and cultural rights.
+
+<br>
 
 ![Datashift](//the-engine-room.github.io/2015/media/logos/datashift.png)
 
 __DataShift__ - The engine room has continued its work with CIVICUS on the [DataShift](http://civicus.org/thedatashift/) initiative. The engine room team has been supporting in: design and implementation of targeted support to organisations collecting and using citizen-generated data in four pilot countries (Argentina, Nepal, Tanzania, and Kenya), research on the impact that citizen-generated data projects can have, and creating reusable resources on how to successfully develop citizen-generated data projects that can have real impact at national and international levels. CIVICUS is an international alliance dedicated to strengthening citizen action and civil society around the world.
 
+<br>
+
 ![Restart Project](//the-engine-room.github.io/2015/media/logos/restart.png)
 
 __Restart Project__ - We developed a platform for the [Restart Project](https://therestartproject.org/) to provide visual information about the impact that Restart Parties have on the amount of e-waste participants produce. This work is intended to connect monitoring and evaluation approaches with data-informed, visual advocacy tools.
+
+<br>
 
 ![Asylos](//the-engine-room.github.io/2015/media/logos/asylos.png)
 
 __Asylos__ - Last year, we supported [Asylos](http://asylos.eu/) to develop its new data sharing tool for the decentralized research team that powers its support to refugees. This year we helped design and facilitate Asylos’ all-network event in Berlin. We supported them to incorporate diverse topics ranging from creative campaigning techniques (featuring Peng!), creative research techniques (featuring the Transparency Toolkit), Asylum Law 101 (featuring the Refugee Law Clinic of Munich), and other sessions on country of origin information standards, responsible data and information security.
 
+<br>
+
 ![LevelUp](//the-engine-room.github.io/2015/media/logos/levelup.png)
 
 __LevelUp__ - We're working with the [LevelUp](https://www.level-up.cc) team at Internews to overhaul their platform and improve mechanisms for contribution and localization. LevelUp is a resource for training of trainers (ToT) and supports individuals and groups providing digital security trainings worldwide.
 
+<br>
+
 ![Code for Pakistan](//the-engine-room.github.io/2015/media/logos/codeforpakistan.png)
 
 __Code for Pakistan__ - We worked with [Code for Pakistan](http://codeforpakistan.org/) to improve volunteer engagement and onboarding; better manage organizational information; and use tools and techniques to more effectively manage roadmaps, goals, and day-to-day work between an international, distributed team. Code for Pakistan is a technology focused non-profit building a non-partisan civic innovation ecosystem to improve quality of life across Pakistan.
+
+<br>
 
 ![Data Centar](//the-engine-room.github.io/2015/media/logos/centar.png)
 
@@ -250,29 +286,43 @@ Additionally, we added 3 new board members:
 
 ### Through the support of our funders
 
+<br>
+
 ![Hivos](//the-engine-room.github.io/2015/media/logos/hivos.png)
 
 [Hivos](https://www.hivos.org/) – Hivos has supported the engine room’s responsible data work, for the development of a Responsible Data Toolkit, and for our research on reflections of harm. Hivos is an international development organisation that develops programs, engages in policy advocacy and researches a variety of topics.
+
+<br>
 
 ![MAVC](//the-engine-room.github.io/2015/media/logos/mavc.png)
 
 [Making All Voices Count](www.makingallvoicescount.org)
 
+<br>
+
 ![Hewlett Foundation](//the-engine-room.github.io/2015/media/logos/hewlett.png)
 
 [William and Flora Hewlett Foundation](http://www.hewlett.org/) – The Hewlett Foundation is providing the engine room with funding for the Matchbox Program to test our support methodology with local organizations in Southern Africa and Latin America working to promote transparency and accountability.
+
+<br>
 
 ![Oak Foundation](//the-engine-room.github.io/2015/media/logos/oak.png)
 
 [Oak Foundation](http://www.oakfnd.org/) – Oak Foundation provides the engine room with general support to allow for more responsive support and research for in-country advocacy projects.
 
+<br>
+
 ![Open Society Foundation](//the-engine-room.github.io/2015/media/logos/osf.png)
 
 [Open Society Foundation](http://www.opensocietyfoundations.org/) – OSF’s Information Program supports the Responsible Data Program and provides us with general support for our operations.
 
+<br>
+
 ![Open Knowledge Foundation](//the-engine-room.github.io/2015/media/logos/okfn.png)
 
 [Open Knowledge Foundation](https://okfn.org/) - OKFN has provided support for specific Matchbox activities in Southern Africa. 
+
+<br>
 
 ![Magnum Foundation](//the-engine-room.github.io/2015/media/logos/magnum.jpeg)
 
@@ -317,5 +367,7 @@ In addition to the events we led or helped to organize, the engine room particip
 * Chicas Poderosas kick-off workshop in Mexico, November 2015. We [wrote about it here](https://www.theengineroom.org/pushing-for-innovation-in-media-chicas-poderosas-kicks-off-in-mexico/).
 
 ## looking forward
+
+![Open Door](//the-engine-room.github.io/2015/media/icons/opendoor.png)
 
 In January we will be sharing our 2016-2017 strategic plan where you will find more information about the problems we will be tackling in the next 2 years. But remember: __our digital door is always open__. If you’ve got technology and data problems or opportunities, we’re here to help. And if we don’t have the in-house expertise to help, we will do our best to point you to others in our network of excellent allies who do.

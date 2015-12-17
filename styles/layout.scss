@@ -118,6 +118,10 @@ nav {
 
 body.page > .content {
   padding-top: 50px; // make space for navbar
+
+  a {text-decoration:none;}
+  a:hover {text-decoration:underline;}
+  
   @media (#{$bp-larger-than-phablet}) { padding-top: 0; }
 }
 
