@@ -9,7 +9,7 @@ title: 2015 Retrospective
 ## who we are
 We are a team of 12 strategists, researchers, technologists, and advocates based in 9 countries. The internet is our office. We forge partnerships with social change organizations and work with them to tactically and strategically adopt technology to further their social justice objectives. We work to make a tangible and positive difference for our partners while producing reusable documentation and resources to make a positive difference for other organizations that we do not directly support. 
 
-### Our Mission
+### our mission
 The engine room exists to accelerate positive social change. We do this by supporting social change initiatives to effectively use technology and data in their work.  
 
 _We define __positive social change__ as shifts in society that promote equality, access to justice, exercise of rights, good governance, and accountability. We believe that because we are untethered from a particular social change sector we are better able to circulate effective strategies, provide demand-driven support, and bring fresh ideas and approaches that can have a big impact._
@@ -24,11 +24,15 @@ Scroll through to learn more about our programmatic activities, research, networ
 
 You’ll find threads of our two major programs running through much of our work - we try to engage in long-term direct support as a general rule, and we also try to integrate responsible data thinking into all of our partnerships, projects, and research.
 
+<br>
+
 ![Responsible Data Forum]({{site.baseurl}}/media/logos/RDF.png)
 
 ### Responsible Data Program
 
 Our Responsible Data Program is focused on making it easier for advocacy organizations to use data responsibly. Part of the Responsible Data Program, the Responsible Data Forum convenes activists, advocates, security thinkers, researchers and technology doers, for learning and building sprints. We've had a few significant developments in the past year, including: hiring of a Responsible Data Program Manager (Danna Ingleton) and a re-conceptualization of program delivery.
+
+<br>
 
 ![Matchbox]({{site.baseurl}}/media/logos/matchbox.png)
 
@@ -113,7 +117,7 @@ process.
 __Ndifuna Ukwazi (South Africa)__ - A team of advocates based in Cape Town, South Africa. They use research and strategic litigation to campaign for justice and equality in poor and working class communities. Matchbox helped NU build a platform that monitors the accessibility of municipalities’ service delivery agreement contracts and other public information, and compares municipalities’ compliance on FOI laws against each other. We wrote about it here. The website is available [here](http://muni.compliancetracker.org.za/).
 
 
-### Other Project-based, holistic, strategic and technical support
+### other project-based, holistic, strategic and technical support
 
 Our direct support to partners is a critical part of our work. It creates impact and it keeps us connected to the real world problems organizations are facing so we can better target our research and programmatic activities. Our direct support activities can be grouped according to two main types: project-based, holistic strategic and technical support, and supporting partners to design engagement with their communities in workshops. 
 
@@ -192,7 +196,7 @@ We provided light-touch strategic support in response to requests from 30 organi
 
 ## how did we do this?
 
-### By bringing people together
+### by bringing people together
 
 In 2015, the engine room has partnered with 6 organizations to host 2 Responsible Data Forum events. We also worked with 5 practitioners with responsible data expertise to host 4 online, peer-to-peer discussions. Here’s a brief summary:
 
@@ -226,7 +230,7 @@ Another important part of our partner support is designing and leading events th
 * TALearn event in Delhi - as the follow up from some research we’ve been doing for the Transparency and Accountability Initiative into social movements, we facilitated a workshop for them bringing together project partners to co-create a research agenda for future work. More on the research is below. 
 * We attended the [International Anti-Corruption Conference (IACC)](http://iacconference.org/) in Malaysia and helped out with their [Technology Hub](https://16iacc.sched.org/list/descriptions/type/technology+hub#.VgmZGuSgwYw). Interested attendees could approach technologists to ask a question, pitch an idea, figure out how to analyse a dataset or simply find out what tools may be available to use for their project. There’s more info about this [in our blog](https://www.theengineroom.org/how-technology-is-used-to-fight-impunity-our-take-aways-from-the-international-anti-corruption-conference/).
 
-### By matchmaking
+### by matchmaking
 
 We could not have accomplished what we did this year without the support of our worldwide network of allies and organizations. In 2015, our legion of experts spent countless hours designing and developing platforms, resources and strategies for each of our partner’s projects. Other allies are tirelessly working to introduce responsible data practices into their organizations and work with the community to improve existing resources.
 
@@ -252,7 +256,7 @@ We also were supported by RDF community leaders who led panels and discussions a
 * [Norman Shamas](https://twitter.com/NormanShamas) included a number of RDF topics in various Tech Change courses. 
 * [Jos Berens](https://twitter.com/jos_berens) spoke about responsible data at various open data for peace events
 
-### Through research and documentation
+### through research and documentation
 
 Making All Voices Count ([MAVC](http://www.makingallvoicescount.org/)) –  together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organisations choosing a tool think through the process. The research is supported by Making All Voices Count.
 
@@ -267,7 +271,7 @@ We also created a resource for those involved in data driven advocacy projects i
 
 Towards the end of 2014, thanks to a grant written by Hivos we brought together 12 data + international development experts to write a book on the responsible data challenges that come with increased, and new, ways of using data in the development sector. In 2015, we converted this PDF book into a static website and made it annotatable with the handy Hypothes.is plugin, and we carried out [some user research to see how our community was using the book](https://responsibledata.io/what-we-learned-from-user-research-on-the-responsible-data-in-development-book/). Based on what we found out, we’re now working on improvements and developments to the book - such as chapter summaries and slide decks for responsible data advocates. 
 
-### By growing our team
+### by growing our team
 
 In February, we held our first engine room staff retreat in Costa Rica where many of the staff met for the first time.
 
@@ -284,7 +288,7 @@ Additionally, we added 3 new board members:
 * __Nathaniel Heller__ is Managing Director at the [Results for Development Institute (R4D)](http://r4d.org/) and leads its Governance Program. 
 * __Ali G Ravi__ is currently leading [Confabium](http://confabium.net/) with a mission to help projects, organizations and foundations integrate digital innovation into their success strategies. 
 
-### Through the support of our funders
+### through the support of our funders
 
 <br>
 
@@ -334,7 +338,7 @@ Additionally, we added 3 new board members:
 <iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/mayarichman.jhjoa0me/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA#2/10/-44" ></iframe>
 
 
-### Did you see us this year?
+### did you see us this year?
 
 In addition to the events we led or helped to organize, the engine room participated in the following events in 2015:
 
