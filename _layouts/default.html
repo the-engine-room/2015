@@ -22,16 +22,10 @@
 
   <body class="row {%if page.body_class%}{{page.body_class}}"{%endif%}>
     <nav class="three columns">
-
       {% include navbar.html %}
     </nav>
 
     <div class="content nine columns offset-by-three">
-
-      <header class="logo">
-        <a href="https://theengineroom.org"><img src="{{site.baseurl}}/images/logos/engineroom.png" alt="the engine room" /></a>
-      </header>
-
       {{ content }}
     </div>
 
