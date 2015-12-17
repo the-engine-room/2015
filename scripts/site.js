@@ -20,7 +20,7 @@ $(document).ready(function() {
         var href = $(this).children('a').attr('href');
         var element = $(href);
         var scrollTop = element.offset().top - offsetTop;
-        $('body').animate({
+        $('html, body').animate({
             scrollTop: scrollTop
         }, 1000);
         window.location.hash = href;
