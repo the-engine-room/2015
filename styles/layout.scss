@@ -171,7 +171,7 @@ footer {
   }
   .license img {
     width: 35%;
-    left: 15%;
+    left: calc(50% - 35%/2);
     @media (#{$bp-larger-than-phablet}) { width: 200%; }
   }
 }
