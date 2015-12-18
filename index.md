@@ -241,9 +241,7 @@ Another important part of our partner support is designing and leading events th
 
 We could not have accomplished what we did this year without the support of our worldwide network of allies and organizations. In 2015, our legion of experts spent countless hours designing and developing platforms, resources and strategies for each of our partner’s projects. Other allies are tirelessly working to introduce responsible data practices into their organizations and work with the community to improve existing resources.
 
-We hope to continue to invest and grow this network of experts in the coming year.
-
-We have been fortunate to work with some of the best and the brightest to help support our Matchbox partners:
+Here are some of the best and the brightest who helped support our Matchbox partners this year:
 
 * [Julie Lorch](http://julielorch.com/) designed wireframes for a service delivery agreement website for our partner Ndifuna Ukwazi in South Africa, and IPPR in Namibia. She has also helped us on several other projects this year and has helped us up our UX and UI game. 
 * [Friedrich Lindenberg](https://twitter.com/pudo) worked (with our partner the Institute for Public Policy Research) to develop a data model on petroleum exploration licenses awarded by the Namibian government. He also did volunteered to scrape data from a map showing the location of government licenses for oil which has strengthened the overall project.
@@ -262,10 +260,12 @@ We also were supported by RDF community leaders who led panels and discussions a
 * [Amy O’Donnell](https://twitter.com/amy_odonnell) of Oxfam gave a number of RDF related presentations at events in the UK and Germany
 * [Norman Shamas](https://twitter.com/NormanShamas) included a number of RDF topics in various Tech Change courses. 
 * [Jos Berens](https://twitter.com/jos_berens) spoke about responsible data at various open data for peace events
+ 
+We plan to continue to investing and growing this network of experts in the coming year.
 
 ### through research and documentation
 
-Making All Voices Count ([MAVC](http://www.makingallvoicescount.org/)) –  together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organisations choosing a tool think through the process. The research is supported by Making All Voices Count.
+Making All Voices Count ([MAVC](http://www.makingallvoicescount.org/)) – together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organisations choosing a tool think through the process. The research is supported by Making All Voices Count.
 
 The [Transparency and Accountability Initiative](http://www.transparency-initiative.org/) (T/AI) contracted the engine room to conduct qualitative research on the roles, activities and self-conceptions of social movements in the tech, transparency and accountability field, to understand when and how the international support and funding communities can best support their work for social good. This research culminated in the publishing of three think-pieces, two of which were produced by the engine room team:
 
