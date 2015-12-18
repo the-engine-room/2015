@@ -8,6 +8,8 @@ title: 2015 Retrospective
 ## who we are
 We are a team of 12 strategists, researchers, technologists, and advocates based in 9 countries. The internet is our office. We forge partnerships with social change organizations and work with them to tactically and strategically adopt technology to further their social justice objectives. We work to make a tangible and positive difference for our partners while producing reusable documentation and resources to make a positive difference for other organizations that we do not directly support. 
 
+<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/mayarichman.jhjoa0me/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA#2/10/-44" ></iframe>
+
 ### our mission
 The engine room exists to accelerate positive social change. We do this by supporting social change initiatives to effectively use technology and data in their work.  
 
@@ -332,42 +334,9 @@ Additionally, we added 3 new board members:
 [Magnum Foundation](http://magnumfoundation.org/) - The Magnum Foundation supported an event in New York City titled Responsible Data Lab for documentary photographers and photojournalists.
 
 
-## who makes up the engine room?
-
-<iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/mayarichman.jhjoa0me/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA#2/10/-44" ></iframe>
-
-
 ### did you see us this year?
 
-In addition to the events we led or helped to organize, the engine room participated in the following events in 2015:
-
-* POINT Conference, Sarajevo
-* OpenDataCon
-* LevelUp Digital Security Trainer Summit (within the Circumvention Tech Festival), Spain
-* Follow the Money, Berlin
-* Cartagena Data Festival, Argentina
-* Con Datos, Chile
-* Mobile X Mobilization, Berlin
-* Abre LatAm, Argentina?
-* Media Party, Buenos Aires, Argentina - 26-28 August. Zara and Tin had the chance to meet with the Latin American investigative journalism community, seeing what new trends there were, and how they were approaching incorporating citizen perspectives into their work, as part of the work we’re doing with the DataShift. Zara [wrote about it here](https://www.theengineroom.org/four-innovative-ways-that-journalists-are-getting-citizens-to-contribute/).
-* TALearn event in Rio
-* FDL workshop in Argentina
-* Open Technology Fund Summit, United States
-* RightsCon, Philippines 
-* Chaos Computer Camp, Germany - Maya and Zara attended, and Zara talked to a field full of hackers about ways that data can harm, or help, marginalised communities. Her talk is [online here](https://media.ccc.de/browse/conferences/camp2015/camp2015-6876-data_and_discrimination_representing_marginalised_communities_in_data.html#video&t=0).
-* re:publica, Berlin, Germany - Zara took part in a debate on ‘big data and privacy: ethics of data use in development contexts’, [online here](https://re-publica.de/session/big-problems-big-data-little-privacy-ethics-data-use-developent-contexts).
-* UNICEF Data for Children, United States
-* Youth in Human Rights (YIHR) Youth Summit, Sarajevo
-* Monitoring, Evaluation, Research and Learning in Development (MERL) Tech Conference, United States
-* Eye on Earth Summit, Abu Dhabi - Oct 6-8. Representing the DataShift, Zara came here to learn about new perspectives of data on for monitoring the Sustainable Development Goals, representing the DataShift.
-* Open Government Partnership (OGP) Summit, Mexico. Zara, Tin and Ela met in Mexico City to share various things we’ve been working on with the open government crowd; Quien Compro, and a DataShift report on increasing sustainability of citizen-generated data through government collaboration. 
-* Slovenia Ministry of Data Bootcamp, Slovenia
-* Nonprofit Development Summit, United States
-* International Open Data Conference in Ottawa, May 28-29, Canada. Alix, Zara and Ela joined the international open data community to talk about the ‘spectrum’ of open data. 
-* OCHA Ethics of Data, June 23-24
-* Mozilla Festival, London - Zara and Madeline
-* Citizen Lab Summer Institute, June 24-26
-* Chicas Poderosas kick-off workshop in Mexico, November 2015. We [wrote about it here](https://www.theengineroom.org/pushing-for-innovation-in-media-chicas-poderosas-kicks-off-in-mexico/).
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA/10/-44'></iframe>
 
 ## looking forward
 
