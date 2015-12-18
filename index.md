@@ -342,7 +342,7 @@ Additionally, we added 3 new board members:
 
 ### did you see us this year?
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/attribution,zoomwheel.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA'></iframe>
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/attribution,zoomwheel.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA/10/-44'></iframe>
 
 ## looking forward
 
