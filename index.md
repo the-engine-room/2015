@@ -8,6 +8,7 @@ title: 2015 Retrospective
 ## who we are
 We are a team of 12 strategists, researchers, technologists, and advocates based in 9 countries. The internet is our office. We forge partnerships with social change organizations and work with them to tactically and strategically adopt technology to further their social justice objectives. We work to make a tangible and positive difference for our partners while producing reusable documentation and resources to make a positive difference for other organizations that we do not directly support. 
 
+<br>
 
 <iframe width="100%" height="500px" frameBorder="0" src="https://a.tiles.mapbox.com/v4/mayarichman.jhjoa0me/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA#2/10/-44" ></iframe>
 
@@ -16,7 +17,7 @@ The engine room exists to accelerate positive social change. We do this by suppo
 
 ![Team Picture]({{site.baseurl}}/media/images/godzilla.jpg)
 
-
+<br>
 
 _We define __positive social change__ as shifts in society that promote equality, access to justice, exercise of rights, good governance, and accountability. We believe that because we are untethered from a particular social change sector we are better able to circulate effective strategies, provide demand-driven support, and bring fresh ideas and approaches that can have a big impact._
 
@@ -306,7 +307,7 @@ Additionally, we added 3 new board members:
 
 ![MAVC]({{site.baseurl}}/media/logos/mavc.png)
 
-[Making All Voices Count](www.makingallvoicescount.org)
+[Making All Voices Count](www.makingallvoicescount.org) (MAVC) – together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organisations choosing a tool think through the process. The research is supported by Making All Voices Count. 
 
 <br>
 
@@ -341,7 +342,7 @@ Additionally, we added 3 new board members:
 
 ### did you see us this year?
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA/10/-44'></iframe>
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/attribution,zoomwheel.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA'></iframe>
 
 ## looking forward
 
