@@ -13,7 +13,7 @@ The engine room exists to accelerate positive social change. We do this by suppo
 
 _We define __positive social change__ as shifts in society that promote equality, access to justice, exercise of rights, good governance, and accountability. We believe that because we are untethered from a particular social change sector we are better able to circulate effective strategies, provide demand-driven support, and bring fresh ideas and approaches that can have a big impact._
 
-## how did we work towards our mission in 2015?
+## 2015 milestones
 
 ![Infographic]({{site.baseurl}}/media/icons/infographic.png)
 
