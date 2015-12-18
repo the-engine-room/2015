@@ -234,7 +234,7 @@ Another important part of our partner support is designing and leading events th
 * We supported CIVICUS in their organization of events related to the DataShift program at the Cartagena Data Festival.
 * We presented at and facilitated two events organised by the UK non-profit network Bond, focusing on responsible data issues in relation to monitoring and evaluation, as well as consent and data usage.
 * We co-facilitated a session at the Buntwani event, which focused on the usage of technology in transparency and accountability.
-* TALearn event in Delhi - as the follow up from some research we’ve been doing for the Transparency and Accountability Initiative into social movements, we facilitated a workshop for them bringing together project partners to co-create a research agenda for future work. More on the research is below. 
+* TALearn event in Delhi - as the follow up from some research we’ve been doing for the Transparency and Accountability Initiative into social movements, we facilitated a workshop for them bringing together project partners to co-create a research agenda for future work. 
 * We attended the [International Anti-Corruption Conference (IACC)](http://iacconference.org/) in Malaysia and helped out with their [Technology Hub](https://16iacc.sched.org/list/descriptions/type/technology+hub#.VgmZGuSgwYw). Interested attendees could approach technologists to ask a question, pitch an idea, figure out how to analyse a dataset or simply find out what tools may be available to use for their project. There’s more info about this [in our blog](https://www.theengineroom.org/how-technology-is-used-to-fight-impunity-our-take-aways-from-the-international-anti-corruption-conference/).
 
 ### by matchmaking
