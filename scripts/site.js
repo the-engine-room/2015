@@ -1,5 +1,3 @@
-var offsetTop = 50;
-
 $(document).ready(function() {
     // nav toggle
     $('nav a#toggle').on('click', function() {
@@ -19,7 +17,7 @@ $(document).ready(function() {
         // animate scroll to top
         var href = $(this).children('a').attr('href');
         var element = $(href);
-        var scrollTop = element.offset().top - offsetTop;
+        var scrollTop = element.offset().top - 47.5; // align bottom of section h2 with navbar 
         $('html, body').animate({
             scrollTop: scrollTop
         }, 1000);
@@ -45,6 +43,6 @@ $(document).ready(function() {
 
     $('body').scrollspy({
         target: 'nav',
-        offset: offsetTop
+        offset: 90 // this needs to match section.content h2 margin-top
     });
 });
