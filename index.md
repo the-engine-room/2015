@@ -23,7 +23,7 @@ _We define __positive social change__ as shifts in society that promote equality
 
 ## 2015 milestones
 
-<img alt="Infographic" src="{{site.baseurl}}/media/icons/infographic.png" style="margin: 0 auto;"/>
+![Infographic]({{site.baseurl}}/media/icons/infographic.png)
 
 Scroll through to learn more about our programmatic activities, research, network of allies and events in 2015.
 
@@ -347,7 +347,7 @@ And two people who moved on from the engine room in 2015:
 
 <br>
 
-![Magnum Foundation]({{site.baseurl}}/media/logos/magnum.jpeg)
+<img alt="Magnum Foundation" src="{{site.baseurl}}/media/logos/magnum.jpeg" style="width: 11%;" />
 
 [Magnum Foundation](http://magnumfoundation.org/) - The Magnum Foundation supported an event in New York City titled Responsible Data Lab for documentary photographers and photojournalists.
 
