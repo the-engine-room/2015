@@ -297,6 +297,12 @@ And as a shout out to some of our organizational advisors and allies, this year,
 * __Allen Gunn__ at [Aspiration](www.aspirationtech.org)
 * __Chris Michael__ at [Collaborations for Change](http://www.collaborationsforchange.org/)
 * __Adriana Cracium__ at [Oak Foundation](http://www.oakfnd.org/)
+* __Phillip Levine__ and __Justin Jesse__ from the [McDermott Will & Emery](http://www.mwe.com) law firm
+
+And two people who moved on from the engine room in 2015:
+* __Christopher Wilson__ Since 2011, Christopher led the engine room’s research activities, developed the responsible data program from an ambitious idea into a community of practice, supported our seemingly overnight expansion, and did all of the other million little things it takes to successfully co-found and run an organization with grace under pressure. We want to thank Christopher for all of the late nights, the early morning airport transfers, the bold ideas for bootstrapping the engine room, and the selfless commitment to building something from nothing.
+* __Alex McBride__ Midway through the year our finance manager left us to head into more intense graduate school waters. She really helped us step up our financial management game as we managed fast-paced growth. She’s missed - but is up to great work at the field of environmental justice over at the New School. 
+
 
 
 ### through the support of our funders
