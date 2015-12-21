@@ -73,7 +73,7 @@ __Medecins Sans Frontieres__ - We are embarking on a project with Medecins Sans 
 
 ![Amnesty International]({{site.baseurl}}/media/logos/amnesty.png)
 
-__Amnesty International__ - We are working with Amnesty International and Benetech to spearhead a community discussion on these issues, taking into consideration all that has been done to date. We will develop a helpful resource to both bring consistency in present responses and to ensure that human rights practitioners are well positioned to proactively address responsible data issues as they emerge.
+__Amnesty International__ - We are working with Amnesty International and Benetech to spearhead a community discussion on responsible data issues related to human rights documentation. This work will take into consideration all that has been done to date. We will develop a helpful resource to both bring consistency in present responses and to ensure that human rights practitioners are well positioned to proactively address responsible data issues as they emerge.
 
 We also led a responsible data and program design workshop for Amnesty International to help them prepare for their microtasking project.
 
@@ -81,7 +81,7 @@ We also led a responsible data and program design workshop for Amnesty Internati
 
 ![Mercy Corps]({{site.baseurl}}/media/logos/mercy.png)
 
-__Mercy Corps__ - We have worked with Mercy Corps to develop tip sheets for RD issues related to e-transfers. We are initially drafting 2 tip sheets (on Encryption and Data Minimisation) and will hopefully be contributing to the development of a broader Data Starter Kit for humanitarian field staff working on e-transfer programmes.
+__Mercy Corps__ - We have worked with Mercy Corps to develop tip sheets for RD issues related to e-transfers. We are initially drafting 2 tip sheets (on Encryption and Data Minimization) and will hopefully be contributing to the development of a broader Data Starter Kit for humanitarian field staff working on e-transfer programmes.
 
 
 #### Matchbox Partners
@@ -96,7 +96,7 @@ __Fundacion Directorio Legislativo (Argentina)__ - An organization that uses dia
 
 ![¿Quién Compró?]({{site.baseurl}}/media/logos/quien.png)
 
-__¿Quién Compró? (Mexico)__  - An online platform investigating how the Mexican congress spends public funds. The site shows where and on what public money is being spent. We facilitated improvements to the website to allow for more effective collection, uploading and downloading of receipts obtained through freedom of information laws. [We wrote about the process of creating a microtasking site](https://www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/), and [digitizing documents](https://www.theengineroom.org/what-were-learning-about-digitizing-and-preserving-documents/). 
+__¿Quién Compró? (Mexico)__  - An online platform investigating how the Mexican congress spends public funds. The site allows for microtasking of politicians' expenses so that journalists can independently verify and analyze what public money is being spent on. We facilitated improvements to the website to allow for more effective collection, uploading and downloading of receipts obtained through freedom of information laws. [We wrote about the process of creating a microtasking site](https://www.theengineroom.org/behind-the-scenes-how-we-helped-kick-start-a-microtasking-site/), and [digitizing documents](https://www.theengineroom.org/what-were-learning-about-digitizing-and-preserving-documents/). 
 
 <br>
 
@@ -126,9 +126,7 @@ __Ndifuna Ukwazi (South Africa)__ - A team of advocates based in Cape Town, Sout
 
 ### other project-based, holistic, strategic and technical support
 
-Our direct support to partners is a critical part of our work. It creates impact and it keeps us connected to the real world problems organizations are facing so we can better target our research and programmatic activities. Our direct support activities can be grouped according to two main types: project-based, holistic strategic and technical support, and supporting partners to design engagement with their communities in workshops. 
-
-In the course of 2015, we have developed a set of core services that we can provide to organizations looking for support to integrate technology into their work. We deliver direct support on a sliding-scale fee.
+Our direct support to partners is a critical part of our work. It creates impact and it keeps us connected to the real world problems organizations are facing so we can better target our research and programmatic activities. Our direct support activities can be grouped according to two main types: project-based, holistic strategic and technical support, and supporting partners to design engagement with their communities in workshops.
 
 
 <br>
