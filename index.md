@@ -43,9 +43,9 @@ Our Responsible Data Program is focused on making it easier for advocacy organiz
 
 ![Matchbox]({{site.baseurl}}/media/logos/matchbox.png)
 
-### Matchbox
+### Matchbox Program
 
-Our Matchbox Project is built to match high impact advocacy projects with the network of technical and strategic expertise they need to build effective technology that powers their work. In the course of 2015, we engaged with over 30 organizations to provide light-touch strategic advice, and with 6 partners to provide in-depth technical and strategic support in concentrated periods (ranging from 6 to 12 months).
+Our Matchbox Program is built to match high impact advocacy projects with the network of technical and strategic expertise they need to build effective technology that powers their work. In the course of 2015, we engaged with over 30 organizations to provide light-touch strategic advice, and with 6 partners to provide in-depth technical and strategic support in concentrated periods (ranging from 6 to 12 months).
 
 ## what we did this year
 
@@ -223,7 +223,7 @@ We also played an active role in these responsible data-focused events:
 
 Another important part of our partner support is designing and leading events that support our partners' networks, programs, and opportunities for collaboration and capacity development. In 2015, we organized and facilitated many events for close partners to further that work, and played a supportive role in many others.
 
-* [The POINT conference](http://point.zastone.ba/) (Sarajevo, 20-24 May 2015) was a regional conference of CSOs from across Southeast Europe and international experts, all of whom intensively use technologies in their work. We were there to talk digital security and privacy on the internet, [our work with the Matchbox project](https://thematchbox.io/), and the Data Academy datathon.
+* [The POINT conference](http://point.zastone.ba/) (Sarajevo, 20-24 May 2015) was a regional conference of CSOs from across Southeast Europe and international experts, all of whom intensively use technologies in their work. We were there to talk digital security and privacy on the internet, [our work with the Matchbox Program](https://thematchbox.io/), and the Data Academy datathon.
 * We actively participated in a 5-day design workshop with the Balkan Data Academy to support the strategic development of a citizen election monitoring project in Bosnia. We wrote about it [here](https://www.theengineroom.org/from-election-monitoring-to-point-the-engine-room-does-the-balkans/).
 * We were an organizing partner in the Responsible Data for Humanitarian Response event led by Leiden University’s Peace Informatics Lab and held at the Dutch Ministry of Foreign Affairs
 * We facilitated an event for small human rights funders in Scandinavia who are interested in providing more strategic security support for their grantees. 
