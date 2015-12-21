@@ -293,9 +293,10 @@ Additionally, we added 3 new board members:
 * __Ali G Ravi__ is currently leading [Confabium](http://confabium.net/) with a mission to help projects, organizations and foundations integrate digital innovation into their success strategies. 
 
 And as a shout out to some of our organizational advisors and allies, this year, we've received generous support and guidance from:
-*Allen Gunn at [Aspiration](www.aspirationtech.org)
-*Chris Michael at [Collaborations for Change](http://www.collaborationsforchange.org/)
-*Adriana Cracium at [Oak Foundation](http://www.oakfnd.org/)
+
+* __Allen Gunn__ at [Aspiration](www.aspirationtech.org)
+* __Chris Michael__ at [Collaborations for Change](http://www.collaborationsforchange.org/)
+* __Adriana Cracium__ at [Oak Foundation](http://www.oakfnd.org/)
 
 
 ### through the support of our funders
