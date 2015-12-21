@@ -15,7 +15,7 @@ We are a team of 12 strategists, researchers, technologists, and advocates based
 ### our mission
 The engine room exists to accelerate positive social change. We do this by supporting social change initiatives to effectively use technology and data in their work.  
 
-![Team Picture]({{site.baseurl}}/media/images/godzilla.jpg)
+<img alt="Team Picture" src="{{site.baseurl}}/media/images/godzilla.jpg" style="margin: 0 auto; max-width: 70%;"/>
 
 <br>
 
@@ -23,7 +23,7 @@ _We define __positive social change__ as shifts in society that promote equality
 
 ## 2015 milestones
 
-![Infographic]({{site.baseurl}}/media/icons/infographic.png)
+<img alt="Infographic" src="{{site.baseurl}}/media/icons/infographic.png" style="margin: 0 auto;"/>
 
 Scroll through to learn more about our programmatic activities, research, network of allies and events in 2015.
 
@@ -358,6 +358,6 @@ And two people who moved on from the engine room in 2015:
 
 ## looking forward
 
-![Open Door]({{site.baseurl}}/media/icons/opendoor.png)
+<img alt="open door" src="{{site.baseurl}}/media/icons/opendoor.png" style="margin: 0 auto;" />
 
 In January we will be sharing our 2016-2017 strategic plan where you will find more information about the problems we will be tackling in the next 2 years. But remember: __our digital door is always open__. If you’ve got technology and data problems or opportunities, we’re here to help. And if we don’t have the in-house expertise you need, we will do our best to point you to others in our network of excellent allies who do.
