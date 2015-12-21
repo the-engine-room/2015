@@ -319,7 +319,7 @@ And two people who moved on from the engine room in 2015:
 
 ![MAVC]({{site.baseurl}}/media/logos/mavc.png)
 
-[Making All Voices Count](www.makingallvoicescount.org) (MAVC) – together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organizations choosing a tool think through the process. The research is supported by Making All Voices Count. 
+[Making All Voices Count](www.makingallvoicescount.org) (MAVC) – together with the [Network Society](http://www.networksociety.co.za/report-highlights.php) initiative at the University of the Witwatersrand in South Africa, and [Pawa254](http://pawa254.org/) in Kenya, we have been working on a research project that aims to understand how voice and accountability initiatives in Kenya and South Africa choose technology tools, and whether targeted information could improve the process. The project is producing a peer-reviewed article, a longer report and an online framework designed to be help organisations choosing a tool think through the process. 
 
 <br>
 
@@ -354,7 +354,7 @@ And two people who moved on from the engine room in 2015:
 
 ### did you see us this year?
 
-<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA'></iframe>
+<iframe width='100%' height='500px' frameBorder='0' src='https://a.tiles.mapbox.com/v4/mayarichman.of701o43/zoompan.html?access_token=pk.eyJ1IjoibWF5YXJpY2htYW4iLCJhIjoiUERHM09McyJ9.X8WFcyVOfmngZMXFnNs2fA#2/10/-44'></iframe>
 
 ## looking forward
 
